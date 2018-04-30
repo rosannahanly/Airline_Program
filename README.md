@@ -8,7 +8,7 @@ Installation and Setup
 Run the following commands in Terminal:
 
 ```sh
-git clone https://github.com/rosannahanly/comp20230.git && cd comp20230
+git clone https://github.com/rosannahanly/comp20230.git && cd comp20230/
 
 ```
 
